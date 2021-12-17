@@ -1,0 +1,9 @@
+[INFO ] 2021-11-15 21:31:56.724 [main] ShopMain -User Management System Application started...
+[INFO ] 2021-11-15 21:33:10.335 [main] UserServiceImpl -Entered validateUser() in service.
+[INFO ] 2021-11-15 21:33:10.337 [main] UserJdbcDaoImpl -Entered validateUser() in dao.
+[INFO ] 2021-11-15 21:33:10.699 [main] UserJdbcDaoImpl -Exited validateUser() in dao.
+[INFO ] 2021-11-15 21:33:10.699 [main] UserServiceImpl -Exited validateUser() in service.
+[INFO ] 2021-11-15 21:33:12.552 [main] UserServiceImpl -Entered exitApplication() in service.
+[INFO ] 2021-11-15 21:33:12.553 [main] UserJdbcDaoImpl -Entered exitApplication() in dao.
+[INFO ] 2021-11-15 21:33:12.553 [main] UserServiceImpl -Exited exitApplication() in service.
+[INFO ] 2021-11-15 21:33:12.555 [main] ShopMain -User logged out...
