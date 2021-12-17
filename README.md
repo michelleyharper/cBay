@@ -1,4 +1,6 @@
-# cBay (Project 0)
+# cBay
+
+Project 0 - Some Kind of Shop (Individual Project)
 
 Project Description
 -----
