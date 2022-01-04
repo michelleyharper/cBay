@@ -73,7 +73,7 @@ To-do list:
 
 Getting Started
 -----
-WORK IN PROGRESS
+git clone `https://github.com/michelleyharper/cBay.git`
 
 Usage
 -----
